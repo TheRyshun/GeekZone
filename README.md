@@ -1,6 +1,6 @@
 # GeekZone
 # 🔥 **Thomas Tetrel** #Ayden. S
-# 🔥 **Quentin Bossuet** #Ayden. S
+# 🔥 **Quentin Bossuet**
 
 ---
 
