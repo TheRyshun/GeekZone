@@ -1,5 +1,6 @@
 # GeekZone
 # 🔥 **Thomas Tetrel** #Ayden. S
+# 🔥 **Quentin Bossuet** #Ayden. S
 
 ---
 
@@ -55,12 +56,18 @@
 ### 📸 Screenshot
 
 
-1️⃣ Security policy
+1️⃣ Page : Config-Admin
 
 <p align="center">
-  <img width="70%" height="70%" src="https://i.imgur.com/ArwDQTi.png" alt="Security issue.">
+  <img width="70%" height="70%" src="https://i.imgur.com/15XcVXr.png" alt="configadmin">
 </p>
 
+
+2️⃣ Page : Catégorie
+
+<p align="center">
+  <img width="70%" height="70%" src="https://i.imgur.com/XWQ58o7.png" alt="categorie">
+</p>
 ---
 
 ### 🌐 **Langages de programmation**
