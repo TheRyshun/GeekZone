@@ -1,0 +1,15 @@
+<?php
+$identifiant = $_POST['identifiant'];
+$newmdp = $_POST['new-password'];
+if (isset($_POST['envoi'])){
+  $sqlQuery = "UPDATE compte SET password = $newmdp WHERE identifiant = '$identifiant'";
+  $loginStatement = $mysqlClient->prepare($sqlQuery);
+  $verif = $login['identifiant']
+  if ($identifiant == $verif) {
+    $loginStatement->execute();
+    $login = $loginStatement->fetchAll();
+  } else {
+    echo '<script>alert("Welcome to Geeks for Geeks")</script>';
+  }
+}
+?>
